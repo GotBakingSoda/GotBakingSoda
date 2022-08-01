@@ -1,6 +1,6 @@
 - Hi, I’m @GotBakingSoda
 - I’m interested in music and passionately playing bass and guitar and ofc videogames
-- Currently a 3rd year student college pursuing/taking Computer Engineering
+- Currently a 3rd year college student pursuing/taking Computer Engineering
 
 
 <!---
